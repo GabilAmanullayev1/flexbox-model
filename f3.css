@@ -1,0 +1,40 @@
+.footer{
+    width: 90%;
+    height: 130vh;
+    border: 1vh solid black;border-bottom: none; 
+    margin-top: 6vh;
+margin: 2vh;}
+.ftop1{
+    display: flex;
+    justify-content: center;
+    }
+.toph{
+    height: 5vh;
+    width: 100%;
+    font-size: 3vh;
+    border: black solid 1vh;border-left: none;border-right: none;border-top: none;
+}
+.ftop1{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 4vh;
+}
+
+.top1{
+    height: 20vh; width: 30%;
+    background-color: palevioletred; 
+     border: 1vh solid black;}
+.top2{
+    height: 20vh; width: 50%;
+    background-color: rgb(15, 143, 218);   
+    border: 1vh solid black;}
+    
+.ftop2{
+        margin-top: 6vh;
+        margin-left: 15vh;
+        width: 80%;
+        height: 20vh;
+        background-color: yellow;
+        border: 1vh solid black;
+    }

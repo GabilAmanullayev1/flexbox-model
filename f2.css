@@ -1,0 +1,78 @@
+.main2{
+    height: 100vh;
+    width: 100%;
+    background-color: chocolate;
+}
+
+.main2{
+    width: 100%;
+    background-color: #0f5298;
+    height: 20vh;
+    margin:0 auto;
+    border-radius: 10px;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    padding-top: 6vh;
+    font-size: 6vh;
+    color: aliceblue;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.bar{display: flex;
+    justify-content: space-between;
+    margin-top: 20px;}
+
+.item{
+    width: 100%;
+    background-color: #50c878;
+    padding: 6vh 4vh;
+    font-size: 4vh;
+    color: aliceblue;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4vh;
+    border-radius: 4vh;}
+
+.yazi{  padding: 4vh;
+        font-size: 5vh;
+        color: blueviolet;
+        width: 100%;
+}
+.item1{
+    width: 20%;
+    height: 20vh;
+    background-color:#005638 ;
+  
+    border-radius: 4vh;
+    display: flex;
+    justify-content: center;
+    box-shadow: 1vh 1vh;
+    align-items: center;}
+
+    .side{
+        background-color: #ff4d4d;
+        width: 30%;
+        margin-left: 10vh;
+        border-radius: 4vh;
+        padding: 4vh 4vh;
+        color: aliceblue;
+        font-weight: bold;
+        font-size: 4vh;
+        text-align: center;
+    }
+    .foot{
+      
+        width: 100%;
+        background-color: #0f5298;
+        height: 20vh;
+        border-radius: 2vh;
+        margin-top: 10vh;
+        padding-top: 5vh;
+        font-size: 4vh;
+        color: aliceblue;
+        font-weight: bold;
+        padding-left: 4vh;
+        margin-bottom: 10vh;
+
+    } 
